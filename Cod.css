@@ -7,7 +7,7 @@
     gap: 50px;
 }
 @media (max-width: 480px){
-#parrafo {
+body {
 color:  rgb(136, 8, 8);
 }
 }
