@@ -6,7 +6,7 @@
     top: 40%;
     gap: 50px;
 }
-@media (max-width: 1000px){
+@media (max-width: 480px){
 #parrafo {
 color:  rgb(136, 8, 8);
 }
