@@ -6,7 +6,16 @@
     top: 40%;
     gap: 50px;
 }
-
+@media (max-width: 1000px){
+#parrafo {
+color: springgreen;
+}
+}
+@media (min-width: 10001px){
+#parrafo{
+color: rgb(171, 15, 199);
+}
+}
 header {
     background-color: yellow;
     position: fixed;
